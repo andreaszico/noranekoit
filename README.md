@@ -1,7 +1,7 @@
-### Hi there 👋
+
 
 <body>
-<h1 align="center">~ Welcome Guys ~</h1>
+<h1 align="center">~ Welcome Guys 👋 ~</h1>
 
 <h2 align="center"> About Me </h2>
 Perkenalkan nama saya **Antonius Bun Wijaya**.
