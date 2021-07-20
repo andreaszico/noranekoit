@@ -7,7 +7,7 @@
 <p align="center"> Introducing my name **Antonius Bun Wijaya**. <br>I'm a **Informatics Student** from [Darma Cendika Catholic University].
 </p>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://giffiles.alphacoders.com/210/210437.gif">
 
 ### - Interesting :
 - ✨ Android Developer
@@ -30,10 +30,6 @@
 </p>
   
   <h2 align="center"> Thanks For See </h2>
-<div align="center">
-<img src="https://giffiles.alphacoders.com/210/210437.gif">
-</div>
-<br>
 </body>
 
 
