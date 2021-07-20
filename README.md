@@ -5,7 +5,7 @@
 
  ~</h1>
 
-
+<div align="center">
 <a href="https://www.linkedin.com/in/antonius-bun-wijaya-55ba47204/">
   <img align="center" alt="Antonius Bun Wijaya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -13,7 +13,7 @@
 <a  href="https://open.spotify.com/user/i4pojh434zdtot4ytrdy1zqu8">
   <img align="center" alt="bunsmart18's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
+</div>
 <img hight="400" width="500" alt="GIF" align="right" src="https://giffiles.alphacoders.com/210/210437.gif">
 
 ### - Interesting :
