@@ -12,7 +12,6 @@
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noranekoit&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
- <br>
   
   <h2 align="center"> Thanks For See </h2>
 <div align="center">
