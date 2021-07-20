@@ -5,9 +5,11 @@
 
  </h1>
 
+ 
 
  
  <h2 align="center">  About Me </h2>
+  <p align="center">  My Name is Antonius Bun Wijaya. I am a student at Darma Cendika Catholic University </p>
 <img hight="400" width="500" alt="GIF" align="right" src="https://giffiles.alphacoders.com/210/210437.gif">
 
 ### - Interesting :
