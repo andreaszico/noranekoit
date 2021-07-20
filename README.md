@@ -10,6 +10,7 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://giffiles.alphacoders.com/210/210437.gif">
 
 ### - Interesting :
+  my name **Antonius Bun Wijaya**. I'm a **Informatics Student** from [Darma Cendika Catholic University]
 - ✨ Android Developer
 
 ### - Hobbies : 
