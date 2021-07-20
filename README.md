@@ -4,8 +4,8 @@
 <h1 align="center">~ Welcome Guys 👋 ~</h1>
 
 <h2 align="center"> About Me 💬 </h2>
-<p align="center"> Introducing my name **Antonius Bun Wijaya**. <br>I'm a **Informatics Student** from [Darma Cendika Catholic University].
-</p>
+ Introducing my name **Antonius Bun Wijaya**. <br>I'm a **Informatics Student** from [Darma Cendika Catholic University].
+
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://giffiles.alphacoders.com/210/210437.gif">
 
