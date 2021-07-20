@@ -17,6 +17,7 @@ My name is Antonius Bun Wijaya. I'm a Informatics Student from Darma Cendika Cat
 
 ### - Hobbies : 
 - ✨ Coding 
+- ✨ Listening Music
 - ✨ Watching Anime
 - ✨ Reading Manga 
 - ✨ Gaming 
