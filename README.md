@@ -4,10 +4,11 @@
 <h1 align="center">~ Welcome Guys 👋 ~</h1>
 
 <h2 align="center"> About Me </h2>
+  <p align="center">
 Perkenalkan nama saya **Antonius Bun Wijaya**.
 
 Saya seorang **Mahasiswa Informatika** dari [Universitas Katolik Darma Cendika].
-
+</p>
 <p align="center">
 <a href="https://github.com/noranekoit">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noranekoit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
