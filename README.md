@@ -4,10 +4,7 @@
 <h1 align="center">~ Welcome Guys 👋 ~</h1>
 
 <h2 align="center"> About Me </h2>
-  <p align="center">
-Perkenalkan nama saya **Antonius Bun Wijaya**.
-
-Saya seorang **Mahasiswa Informatika** dari [Universitas Katolik Darma Cendika].
+<p align="center"> Perkenalkan nama saya **Antonius Bun Wijaya**. <br>Saya seorang **Mahasiswa Informatika** dari [Universitas Katolik Darma Cendika].
 </p>
 <p align="center">
 <a href="https://github.com/noranekoit">
