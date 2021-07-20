@@ -3,7 +3,7 @@
 <body>
 <h1 align="center">~ Welcome Guys ~</h1>
 
-
+<h2 align="center"> About Me </h2>
 Perkenalkan nama saya **Antonius Bun Wijaya**.
 
 Saya seorang **Mahasiswa Informatika** dari [Universitas Katolik Darma Cendika].
@@ -15,6 +15,8 @@ Saya seorang **Mahasiswa Informatika** dari [Universitas Katolik Darma Cendika].
 </a>
 </p>
  <br>
+  
+  <h2 align="center"> Thanks For See </h2>
 <div align="center">
 <img src="https://giffiles.alphacoders.com/210/210437.gif">
 </div>
