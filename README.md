@@ -14,7 +14,7 @@
 
 ### - Interesting :
 
-- ✨ Android Developer
+- ✨ Android Enthusiast
 
 ### - Hobbies : 
 - ✨ Coding 
