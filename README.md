@@ -1,11 +1,9 @@
 
-
+[![Spotify](https://img.shields.io/badge/Spotify-blue)](https://open.spotify.com/user/i4pojh434zdtot4ytrdy1zqu8)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedIn.com/in/antonius-bun-wijaya-55ba47204/)
 <body>
 <h1 align="center">Welcome Guys<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
-
  </h1>
-
- 
 
  
  <h2 align="center">  About Me </h2>
@@ -33,15 +31,9 @@
 
 </a>
 </p>
-  <div align="center">
-<a href="https://www.linkedin.com/in/antonius-bun-wijaya-55ba47204/">
-  <img align="center" alt="Antonius Bun Wijaya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+ 
 
-<a  href="https://open.spotify.com/user/i4pojh434zdtot4ytrdy1zqu8">
-  <img align="center" alt="bunsmart18's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-</div>
+
   <h2 align="center"> Thanks For See </h2>
 </body>
 
