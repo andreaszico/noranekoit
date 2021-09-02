@@ -21,18 +21,12 @@
 
 
 </br>
-</br>
-</br>
 
 <p align="center">
 <a href="https://github.com/noranekoit">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noranekoit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
 </a>
 </p>
- 
-
-
   <h2 align="center"> Thanks For See </h2>
 </body>
 
