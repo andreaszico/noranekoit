@@ -14,7 +14,7 @@
 
 ### - Interesting :
 
-- ✨ Android Enthusiast
+- ✨ Learning Path Android and Machine Learning 
 
 ### - Hobbies : 
 - ✨ Coding 
