@@ -20,7 +20,7 @@
 - ✨ Gaming 
    </br>
    
-I am not WIBU ✌️
+I am not [![WIBU](https://img.shields.io/badge/WIBU-blue)]  ✌️
 
 
 </br>
