@@ -10,7 +10,7 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://giffiles.alphacoders.com/210/210437.gif">
 
 ### - Interesting :
-- ✨ Learning Path Android and Machine Learning 
+- ✨ Learning Path Android, Cross Platform and Machine Learning 
 
 ### - Hobbies : 
 - ✨ Coding 
