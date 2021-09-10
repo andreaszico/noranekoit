@@ -18,6 +18,7 @@
 - ✨ Watching Anime
 - ✨ Reading Manga 
 - ✨ Gaming 
+I am not WIBU ✌️
 
 
 </br>
