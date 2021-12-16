@@ -2,7 +2,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-blue)](https://open.spotify.com/user/i4pojh434zdtot4ytrdy1zqu8)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedIn.com/in/antonius-bun-wijaya-55ba47204/)
 <body>
-### Tech Stack
+
 <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="30px" src="https://img.icons8.com/color/48/000000/kotlin.png" /></a>
 <a href="#"><img align="left" alt="Python" title="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png" /></a>
 <a href="#"><img align="left" alt="PHP" title="PHP" width="30px" src="https://img.icons8.com/nolan/64/php.png" /></a>
