@@ -25,11 +25,23 @@ I am not [![WIBU](https://img.shields.io/badge/WIBU-blue)]  ✌️
 
 </br>
 
+
+  <br>
+
 <p align="center">
 <a href="https://github.com/noranekoit">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noranekoit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    
 </a>
 </p>
+
+### Tech Stack
+<a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://img.icons8.com/color/48/000000/kotlin.png" /></a>
+<a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://img.icons8.com/color/48/000000/python--v1.png" /></a>
+<a href="#"><img align="left" alt="PHP" title="PHP" width="21px" src="https://img.icons8.com/nolan/64/php.png" /></a>
+<a href="#"><img align="left" alt="Java" title="Java" width="21px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" /></a>
+
+  <br>
   <h2 align="center"> Thanks For See </h2>
 </body>
 
