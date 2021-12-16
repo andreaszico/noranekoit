@@ -2,6 +2,12 @@
 [![Spotify](https://img.shields.io/badge/Spotify-blue)](https://open.spotify.com/user/i4pojh434zdtot4ytrdy1zqu8)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedIn.com/in/antonius-bun-wijaya-55ba47204/)
 <body>
+### Tech Stack
+<a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="30px" src="https://img.icons8.com/color/48/000000/kotlin.png" /></a>
+<a href="#"><img align="left" alt="Python" title="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png" /></a>
+<a href="#"><img align="left" alt="PHP" title="PHP" width="30px" src="https://img.icons8.com/nolan/64/php.png" /></a>
+<a href="#"><img align="left" alt="Java" title="Java" width="30px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" /></a>
+    
 <h1
     align="center">Welcome Guys<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
  </h1>
@@ -35,11 +41,7 @@ I am not [![WIBU](https://img.shields.io/badge/WIBU-blue)]  ✌️
 </a>
 </p>
 
-### Tech Stack
-<a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://img.icons8.com/color/48/000000/kotlin.png" /></a>
-<a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://img.icons8.com/color/48/000000/python--v1.png" /></a>
-<a href="#"><img align="left" alt="PHP" title="PHP" width="21px" src="https://img.icons8.com/nolan/64/php.png" /></a>
-<a href="#"><img align="left" alt="Java" title="Java" width="21px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" /></a>
+
 
   <br>
   <h2 align="center"> Thanks For See </h2>
