@@ -3,10 +3,10 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedIn.com/in/antonius-bun-wijaya-55ba47204/)
 <body>
 
-<a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="30px" src="https://img.icons8.com/color/48/000000/kotlin.png" /></a>
-<a href="#"><img align="left" alt="Python" title="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v1.png" /></a>
-<a href="#"><img align="left" alt="PHP" title="PHP" width="30px" src="https://img.icons8.com/fluency/48/000000/php.png" /></a>
-<a href="#"><img align="left" alt="Java" title="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" /></a>
+<a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="40px" src="https://img.icons8.com/color/48/000000/kotlin.png" /></a>
+<a href="#"><img align="left" alt="Python" title="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" /></a>
+<a href="#"><img align="left" alt="PHP" title="PHP" width="40px" src="https://img.icons8.com/fluency/48/000000/php.png" /></a>
+<a href="#"><img align="left" alt="Java" title="Java" width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" /></a>
     <br>
 <h1
     align="center">Welcome Guys<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
